@@ -14,7 +14,7 @@ using iTextSharp.text.pdf;
 
 
 
-namespace PeriodTracker
+namespace PeriodTrackerForm
 {
     public partial class FormTracker : Form
     {
